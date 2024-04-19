@@ -1,0 +1,5 @@
+npm start no cmd,
+
+executando o nodemon index.js.
+
+aí é só abrir o navegador e digitar o localhost mostrado.

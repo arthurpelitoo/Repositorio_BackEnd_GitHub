@@ -1,0 +1,12 @@
+adicione dados à esse banco de dados de usuario:
+
+(criação de tabela)
+create table usuario (
+	id int primary key,
+	nome varchar(45) not null
+)
+
+
+(um exemplo de insert por codigo caso haja preferencia e reaprendizado) 
+insert into cliente (id, id_endereco, nome, email, cpf) values (1, 1, 'ARTHUR', 'arthur@gmail.com', '134.716.471-15') 
+

@@ -1,0 +1,6 @@
+Programas:
+
+Postman
+MySql Workbench(para criar modelos de bancos de dados, parte de ideia)
+Dbeaver(Criação e concretização do banco de dados)
+
